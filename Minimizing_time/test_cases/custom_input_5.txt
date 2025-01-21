@@ -1,0 +1,230 @@
+g1 3 4 5
+pins g1 0 0 0 3 3 0 3 3
+g2 2 2 4
+pins g2 0 0 2 0 2 1
+g3 4 3 6
+pins g3 0 0 0 2 4 0 4 2
+g4 3 5 7
+pins g4 0 0 3 0 3 4
+g5 2 4 3
+pins g5 0 0 2 0 2 3
+g6 4 3 5
+pins g6 0 0 4 0 4 2
+g7 3 2 6
+pins g7 0 0 3 0
+g8 5 4 8
+pins g8 0 0 5 0 5 3
+g9 3 3 4
+pins g9 0 0 0 2 3 1
+g10 2 2 5
+pins g10 0 0 2 1
+g11 4 3 6
+pins g11 0 0 0 2 4 0
+g12 5 5 7
+pins g12 0 0 0 4 5 0 5 4
+g13 2 2 3
+pins g13 0 0 2 0
+g14 3 2 5
+pins g14 0 0 3 0
+g15 4 3 7
+pins g15 0 0 4 2
+g16 5 4 6
+pins g16 0 0 0 3 5 0
+g17 3 3 5
+pins g17 0 0 0 2 3 2
+g18 4 2 4
+pins g18 0 0 4 0
+g19 5 4 6
+pins g19 0 0 5 3
+g20 3 3 8
+pins g20 0 0 0 2 3 1
+g21 4 2 5
+pins g21 0 0 4 1
+g22 2 2 6
+pins g22 0 0 2 0
+g23 3 3 7
+pins g23 0 0 0 2 3 0
+g24 5 4 8
+pins g24 0 0 5 0
+g25 2 2 3
+pins g25 0 0 2 0
+g26 3 3 9
+pins g26 0 0 0 2 3 2
+g27 4 2 4
+pins g27 0 0 4 1
+g28 5 4 5
+pins g28 0 0 5 3
+g29 3 3 6
+pins g29 0 0 0 2 3 1
+g30 4 2 7
+pins g30 0 0 4 0
+g31 5 5 8
+pins g31 0 0 5 0 5 4
+g32 2 2 4
+pins g32 0 0 2 1
+g33 3 3 5
+pins g33 0 0 0 2 3 0
+g34 4 2 6
+pins g34 0 0 4 1
+g35 5 4 7
+pins g35 0 0 5 0
+g36 2 2 3
+pins g36 0 0 2 0
+g37 3 3 8
+pins g37 0 0 0 2 3 2
+g38 4 2 4
+pins g38 0 0 4 0
+g39 5 4 5
+pins g39 0 0 5 3
+g40 3 3 6
+pins g40 0 0 0 2 3 1
+g41 4 2 7
+pins g41 0 0 4 1
+g42 5 4 8
+pins g42 0 0 5 0 5 3
+g43 2 2 3
+pins g43 0 0 2 1
+g44 3 3 9
+pins g44 0 0 0 2 3 2
+g45 4 2 4
+pins g45 0 0 4 1
+g46 5 5 5
+pins g46 0 0 5 0
+g47 3 3 6
+pins g47 0 0 0 2 3 1
+g48 4 2 7
+pins g48 0 0 4 1
+g49 5 5 8
+pins g49 0 0 0 4 5 3
+g50 2 2 4
+pins g50 0 0 2 0
+g51 3 3 5
+pins g51 0 0 0 2 3 0
+g52 4 2 6
+pins g52 0 0 4 1
+g53 5 4 7
+pins g53 0 0 5 0
+g54 2 2 3
+pins g54 0 0 2 1
+g55 3 3 8
+pins g55 0 0 0 2 3 0
+g56 4 2 4
+pins g56 0 0 4 0
+g57 5 4 5
+pins g57 0 0 5 1
+g58 3 3 6
+pins g58 0 0 0 2 3 2
+g59 4 2 7
+pins g59 0 0 4 0
+g60 5 5 8
+pins g60 0 0 0 4 5 0
+g61 2 2 4
+pins g61 0 0 2 1
+g62 3 3 5
+pins g62 0 0 0 2 3 1
+g63 4 2 6
+pins g63 0 0 4 1
+g64 5 4 7
+pins g64 0 0 5 2
+g65 2 2 3
+pins g65 0 0 2 0
+g66 3 3 8
+pins g66 0 0 0 2 3 2
+g67 4 2 4
+pins g67 0 0 4 1
+g68 5 4 5
+pins g68 0 0 5 0
+g69 3 3 6
+pins g69 0 0 0 2 3 1
+g70 4 2 7
+pins g70 0 0 4 0
+g71 5 5 8
+pins g71 0 0 5 0 5 4
+g72 2 2 4
+pins g72 0 0 2 1
+g73 3 3 5
+pins g73 0 0 0 2 3 1
+g74 4 2 6
+pins g74 0 0 4 0
+g75 5 4 7
+pins g75 0 0 5 3
+g76 2 2 3
+pins g76 0 0 2 1
+g77 3 3 8
+pins g77 0 0 0 2 3 0
+g78 4 2 4
+pins g78 0 0 4 1
+g79 5 4 5
+pins g79 0 0 5 0
+g80 3 3 6
+pins g80 0 0 0 2 3 2
+g81 4 2 7
+pins g81 0 0 4 0
+g82 5 5 8
+pins g82 0 0 0 4 5 0
+g83 2 2 4
+pins g83 0 0 2 1
+g84 3 3 5
+pins g84 0 0 0 2 3 1
+g85 4 2 6
+pins g85 0 0 4 1
+g86 5 4 7
+pins g86 0 0 5 2
+g87 2 2 3
+pins g87 0 0 2 0
+g88 3 3 8
+pins g88 0 0 0 2 3 2
+g89 4 2 4
+pins g89 0 0 4 0
+g90 5 5 5
+pins g90 0 0 5 1
+g91 3 3 6
+pins g91 0 0 0 2 3 2
+g92 4 2 7
+pins g92 0 0 4 1
+g93 5 4 8
+pins g93 0 0 0 4 5 2
+g94 2 2 4
+pins g94 0 0 2 0
+g95 3 3 5
+pins g95 0 0 0 2 3 1
+g96 4 2 6
+pins g96 0 0 4 0
+g97 5 5 7
+pins g97 0 0 5 2
+g98 2 2 3
+pins g98 0 0 2 1
+g99 3 3 8
+pins g99 0 0 0 2 3 2
+g100 4 2 4
+pins g100 0 0 4 1
+wire_delay 4
+wire g1.p1 g3.p2
+wire g5.p2 g10.p1
+wire g7.p1 g20.p2
+wire g12.p3 g22.p2
+wire g15.p1 g25.p2
+wire g19.p2 g28.p1
+wire g23.p1 g30.p2
+wire g34.p2 g39.p1
+wire g42.p2 g50.p2
+wire g48.p1 g55.p3
+wire g8.p1 g12.p4
+wire g14.p1 g18.p2
+wire g2.p2 g6.p3
+wire g9.p3 g15.p2
+wire g16.p1 g21.p2
+wire g24.p2 g33.p2
+wire g29.p1 g36.p2
+wire g40.p2 g43.p1
+wire g44.p2 g49.p1
+wire g54.p1 g57.p2
+wire g58.p2 g63.p1
+wire g64.p1 g66.p3
+wire g67.p2 g70.p1
+wire g73.p1 g77.p2
+wire g78.p2 g81.p1
+wire g83.p1 g87.p2
+wire g88.p1 g90.p2
+wire g92.p1 g94.p2
+wire g96.p2 g99.p1
